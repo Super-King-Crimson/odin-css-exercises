@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.one {
+  background-color: #ff697d;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#one {
+  color: #2214e3;
+  font-size: 36px;
+}
+
+.coolerone {
+  font-size: 24px;
+}
+
+#another {
+  background-color: #75ff75;
+  font-size: 24px;
+  font-weight: bold;
+}
